@@ -1,0 +1,20 @@
+[
+  {
+    "id": "136dbd17-3d6b-4bb1-9394-a7520b1789e5",
+    "date": "2026-08-18",
+    "contractName": "Hilltop Mall",
+    "weather": "Sunny",
+    "notes": "Poured foundation slab.",
+    "authorName": "T. Nkosi",
+    "createdAt": "2026-08-19T07:02:13.822Z"
+  },
+  {
+    "id": "3e59f03f-99c5-4518-b5b9-94f6558f3925",
+    "date": "2026-08-17",
+    "contractName": "Riverbend Offices",
+    "weather": "Cloudy",
+    "notes": "Electrical first fix.",
+    "authorName": "S. Dlamini",
+    "createdAt": "2026-08-19T07:02:13.835Z"
+  }
+]
